@@ -1,0 +1,42 @@
+_repo: The-Categories_2412
+_version: 0.0.1
+alternative_title: Categoriae. English
+contributor:
+  translator:
+    agent_name: Edghill, E. M.
+    gutenberg_agent_id: '901'
+    url: http://www.gutenberg.org/2009/agents/901
+creator:
+  author:
+    agent_name: Aristotle
+    aliases:
+    - Aristoteles
+    - Αριστοτέλης
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2747'
+    url: http://www.gutenberg.org/2009/agents/2747
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aristotle
+    - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+description: The categories ; On interpretation / transl. by Harold P. Cooke -- Prior
+  analytics / transl. by Hugh Tredennick.
+gutenberg_bookshelf:
+- Philosophy
+- Classical Antiquity
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Ancient'
+- !lcsh 'Categories (Philosophy)'
+- !lcc 'B'
+- !lcsh 'Logic -- Early works to 1800'
+- GITenberg
+title: The Categories
+url: http://www.gutenberg.org/ebooks/2412

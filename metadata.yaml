@@ -1,11 +1,14 @@
 _repo: The-Categories_2412
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Categoriae. English
 contributor:
   translator:
     agent_name: Edghill, E. M.
     gutenberg_agent_id: '901'
     url: http://www.gutenberg.org/2009/agents/901
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aristotle
@@ -21,6 +24,8 @@ creator:
     - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
 description: The categories ; On interpretation / transl. by Harold P. Cooke -- Prior
   analytics / transl. by Hugh Tredennick.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2412#The-Categories
 gutenberg_bookshelf:
 - Philosophy
 - Classical Antiquity
